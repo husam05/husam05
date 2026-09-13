@@ -4,15 +4,25 @@
 
 # Dr. Husam Salah Mahdi · د. حسام صلاح مهدي
 
+**PhD, Computer Science Engineering · Acting Head of the AI Department, Al-Mustafa University**
 **Medical AI & Arabic-first software — from DICOM to production.**
 
 [![Website](https://img.shields.io/badge/Profile-drhusam--ai.hs--rp.com-00695C?style=flat-square)](https://drhusam-ai.hs-rp.com)
 [![CV](https://img.shields.io/badge/CV-Arabic-00A88F?style=flat-square)](https://drhusam-ai.hs-rp.com/cv.html)
 [![RadBook](https://img.shields.io/badge/RadBook-live-1E88E5?style=flat-square)](https://radbook.iqrad.doctor)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5247--7844-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5247-7844)
+[![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LN_tFWMAAAAJ)
 
 </div>
 
-I build Arabic-first AI systems and medical software that actually run in production — radiology platforms, DICOM services, computer-vision deployments, legal-AI assistants, and university systems. I also train: most recently a 10-day **Python & AI for Medical Diagnostics** program for the Diagnostics Directorate of the Iraqi Ministry of Health.
+I build Arabic-first AI systems and medical software that actually run in production — radiology platforms, DICOM services, computer-vision deployments, legal-AI assistants, and university systems. I hold a **PhD in Computer Science Engineering** (Andhra University, 2026 — real-time UAV face recognition/segmentation with YOLOv8 + TensorRT) and lecture in AI at Al-Mustafa University, Baghdad, where I serve as **Acting Head of the AI Department**. I also train: most recently a 10-day **Python & AI for Medical Diagnostics** program for the Diagnostics Directorate of the Iraqi Ministry of Health.
+
+## 🎓 Research
+
+- **PhD thesis**: *Real-Time Face Recognition and Segmentation on UAVs: A YOLOv8–TensorRT Optimized Approach for Edge AI Acceleration* — published result: **4.28 ms/frame, 58% latency reduction** on edge hardware
+- Mahdi, H. S., et al. (2025). *Accelerated real-time face recognition and segmentation with YOLOv8 optimized through TensorRT.* JISEM 10(35s). [doi:10.52783/jisem.v10i35s.5987](https://doi.org/10.52783/jisem.v10i35s.5987)
+- Mahdi, H. S., et al. (2025). *Real-time drone communication system using ROS 2 and GStreamer with YOLOv8-Seg.* IJCESEN 11(2). [doi:10.22399/ijcesen.2123](https://doi.org/10.22399/ijcesen.2123)
+- **Patent application** (India, 202541024396 A): *AI-Powered Cognitive System for Autonomous Drone Surveillance Using YOLOv8-Seg and GPU-Accelerated Edge Computing*
 
 ## 🩺 Flagship work
 
@@ -29,7 +39,7 @@ I build Arabic-first AI systems and medical software that actually run in produc
 
 ## 🛠️ Stack
 
-`Python` `TypeScript` `Go` `Dart/Flutter` · `YOLOv8/v11` `CRNN-OCR` `RAG/LLMs` `vLLM` `TensorFlow` · `Next.js` `NestJS` `React` `FastAPI` · `PostgreSQL` `MySQL` `Redis` · `Docker` `nginx` `systemd` `self-managed VPS`
+`Python` `TypeScript` `Go` `Dart/Flutter` · `YOLOv8/v11` `CRNN-OCR` `RAG/LLMs` `vLLM` `TensorFlow` · `Next.js` `NestJS` `React` `FastAPI` · `PostgreSQL` `MySQL` `Redis` · `Docker` `nginx` `systemd` `self-managed VPS` · `ROS 2` `TensorRT` `NVIDIA Jetson` `GStreamer`
 
 ## 🌱 Focus
 
