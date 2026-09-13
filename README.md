@@ -23,7 +23,7 @@ I build Arabic-first AI systems and medical software that actually run in produc
 | **[Iraqi Legal AI](https://github.com/husam05/final-iraqi-law)** | Arabic legal Q&A over ~620 Iraqi legal documents — hybrid BM25+FAISS retrieval, 5-agent pipeline with citation verification, runs fully offline on one GPU | 🌐 Public |
 | **[3D Body Atlas](https://husam05.github.io/husam-body-atlas/Husam-3D.html)** | Offline bilingual 3D anatomy viewer with CT-derived surfaces and guided tour | 🟢 Live demo |
 | **DICOM Licensing Server** | Central licence issuance & management for customer DICOM servers | 🟢 [Live](https://dicom.hs-rp.com) |
-| **اطلب محامي (atlubmuhami)** | On-demand lawyer marketplace for Iraq — Flutter + NestJS monorepo, realtime chat, GPS matching | 🔒 v1.1.0 in production |
+| **اطلب محامي (atlubmuhami)** | On-demand lawyer marketplace for Iraq — Flutter + NestJS monorepo, realtime chat, GPS matching | 🔒 v1.1.0 — Baghdad pilot |
 
 ## 🛠️ Stack
 
@@ -31,9 +31,9 @@ I build Arabic-first AI systems and medical software that actually run in produc
 
 ## 🌱 Focus
 
-- **Arabic-first**: every system ships with full RTL Arabic UX as a first-class citizen
+- **Arabic-first**: user-facing products ship with full RTL Arabic UX as a first-class citizen
 - **Self-hosted AI**: local LLMs, embeddings and vision models — designed to run without cloud APIs
-- **Production over demos**: 8 systems currently running live on self-managed infrastructure
+- **Production over demos**: 8 systems currently live — 4 of them on self-managed VPS infrastructure (nginx · Docker · systemd)
 
 <div align="center">
 
