@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="avatar.png" width="160" alt="Dr. Husam Salah Mahdi">
+
 # Dr. Husam Salah Mahdi · د. حسام صلاح مهدي
 
 **Medical AI & Arabic-first software — from DICOM to production.**
